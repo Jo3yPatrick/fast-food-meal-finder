@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Avcocado Ranch Crispy Chicken Soft Taco",
+        "calories": 260, 
+        "protein": 11,
+        "fat": 12,
+        "carbs": 27,
+        "sodium": 680
+    },
+        
+    {
+        "name": "Nacho Cheese Doritos® Locos Tacos Supreme",
+        "calories": 190, 
+        "protein": 8,
+        "fat": 11,
+        "carbs": 15,
+        "sodium": 380
+    },
+
+    {
+        "name": "Chalupa Supreme",
+        "calories": 350, 
+        "protein": 12,
+        "fat": 20,
+        "carbs": 32,
+        "sodium": 570
+    },
+
+    {
+        "name": "Cheesy Gordita Crunch",
+        "calories": 480, 
+        "protein": 20,
+        "fat": 26,
+        "carbs": 44,
+        "sodium": 830
+    },
+
+    {
+        "name": "Beefy 5-Layer Burrito",
+        "calories": 490, 
+        "protein": 17,
+        "fat": 18,
+        "carbs": 65,
+        "sodium": 1290
+    },
+
+    {
+        "name": "Grilled Cheese Burrito",
+        "calories": 690, 
+        "protein": 25,
+        "fat": 36,
+        "carbs": 68,
+        "sodium": 1480
+    }, 
+
+    {
+        "name": "Cheesy Fiesta Potatoes",
+        "calories": 240, 
+        "protein": 3,
+        "fat": 12,
+        "carbs": 29,
+        "sodium": 520
+    }, 
+
+    {
+        "name": "Nachos BellGrande®",
+        "calories": 730, 
+        "protein": 17,
+        "fat": 38,
+        "carbs": 81,
+        "sodium": 1180
+    }
+]
